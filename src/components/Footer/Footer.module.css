@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap');
+.footer{
+    width: 100%;
+    padding: 20px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #112D4E;
+    color: #DBE2EF;
+    font-family: "Kode Mono", monospace;
+    position: fixed;
+    bottom: 0;
+}
